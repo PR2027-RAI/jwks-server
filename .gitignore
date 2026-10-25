@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+*.pyc
+totally_not_my_privateKeys.db
