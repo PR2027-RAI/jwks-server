@@ -4,3 +4,10 @@ __pycache__/
 htmlcov/
 *.pyc
 totally_not_my_privateKeys.db
+.venv/
+.env
+.env.*
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
